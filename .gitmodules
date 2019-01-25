@@ -1,0 +1,33 @@
+[submodule "any"]
+	path = any
+	url = https://github.com/martinmoene/any-lite
+[submodule "byte"]
+	path = byte
+	url = https://github.com/martinmoene/byte-lite
+[submodule "expected"]
+	path = expected
+	url = https://github.com/martinmoene/expected-lite
+[submodule "observer-ptr"]
+	path = observer-ptr
+	url = https://github.com/martinmoene/observer-ptr-lite
+[submodule "optional"]
+	path = optional
+	url = https://github.com/martinmoene/optional-lite
+[submodule "ring-span"]
+	path = ring-span
+	url = https://github.com/martinmoene/ring-span-lite
+[submodule "span"]
+	path = span
+	url = https://github.com/martinmoene/span-lite
+[submodule "status-value"]
+	path = status-value
+	url = https://github.com/martinmoene/status-value-lite
+[submodule "string-view"]
+	path = string-view
+	url = https://github.com/martinmoene/string-view-lite
+[submodule "value-ptr"]
+	path = value-ptr
+	url = https://github.com/martinmoene/value-ptr-lite
+[submodule "variant"]
+	path = variant
+	url = https://github.com/martinmoene/variant-lite
