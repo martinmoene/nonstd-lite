@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Nonstd Lite Parent">
+		<Project filename="nonstd-lite.cbp" />
+		<Project filename="../../../../GitHub-Pre/IsoCpp/gsl-lite/project/gsl-lite.cbp" />
+		<Project filename="../../../any-lite/project/CodeBlocks/any-lite.cbp" />
+		<Project filename="../../../byte-lite/project/CodeBlocks/byte-lite.cbp" />
+		<Project filename="../../../expected-lite/project/CodeBlocks/expected-lite.cbp" />
+		<Project filename="../../../observer-ptr-lite/project/observer-ptr.cbp" />
+		<Project filename="../../../optional-fun-lite/project/CodeBlocks/optional-fun-lite.cbp" />
+		<Project filename="../../../optional-lite/project/CodeBlocks/optional-lite.cbp" />
+		<Project filename="../../../ring-span-lite/project/CodeBlocks/ring-span-lite.cbp" />
+		<Project filename="../../../scope-guard-lite/project/CodeBlocks/scope-guard-lite.cbp" />
+		<Project filename="../../../span-lite/project/CodeBlocks/span-lite.cbp" />
+		<Project filename="../../../status-value-lite/project/CodeBlocks/status_value.cbp" />
+		<Project filename="../../../string-view-lite/project/CodeBlocks/string-view-lite.cbp" />
+		<Project filename="../../../value-ptr-lite/project/CodeBlocks/value-ptr-lite.cbp" />
+		<Project filename="../../../variant-lite/project/CodeBlocks/variant-lite.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
