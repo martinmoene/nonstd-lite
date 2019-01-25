@@ -10,7 +10,7 @@ cmake_minimum_required( VERSION 3.5 )
 # nonstd-lite project and version:
 
 project(
-    any_lite
+    nonstd_lite
     VERSION 0.1.0
 #   DESCRIPTION "A collection of C++17-like types for C++98, C++11 and later as single-file header-only libraries"
 #   HOMEPAGE_URL "https://github.com/martinmoene/nonstd-lite"
