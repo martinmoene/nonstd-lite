@@ -22,6 +22,9 @@
 		<Unit filename="../../CMakeLists.txt" />
 		<Unit filename="../../LICENSE.txt" />
 		<Unit filename="../../README.md" />
+		<Unit filename="../../_vcpkg/ports/nonstd-lite/CONTROL" />
+		<Unit filename="../../_vcpkg/ports/nonstd-lite/portfile.cmake" />
+		<Unit filename="../../_vcpkg/ports/nonstd-lite/usage" />
 		<Extensions>
 			<code_completion />
 			<envvars />
