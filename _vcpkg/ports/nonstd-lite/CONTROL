@@ -1,0 +1,7 @@
+Source: nonstd-lite
+Version: 1.0.0
+Description: Mostly vocabulary types backported to earlier versions of C++
+Build-Depends: any-lite, byte-lite, expected-lite, observer-ptr-lite, optional-lite, ring-span-lite, span-lite, string-view-lite, variant-lite
+
+# status-value-lite,
+# value-ptr-lite,
