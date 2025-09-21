@@ -14,7 +14,7 @@ Issues of collective interest to these projects are collected in [nonstd-lite-pr
 - [byte-lite](https://github.com/martinmoene/byte-lite) &ndash; A C++17-like byte type for C++98, C++11 and later.
 - [expected-lite](https://github.com/martinmoene/expected-lite) &ndash; C++23 expected objects for C++11 and later.
 - [indirect-value-lite](https://github.com/martinmoene/indirect-value-lite) &ndash; An indirect value-type for C++11 and later (p1950).
-- [invoke-lite](https://github.com/martinmoene/invoke-lite) &ndash; C++17-like invoke() for C++98, C++11 and later.
+- [invoke-lite](https://github.com/martinmoene/invoke-lite) &ndash; C++17-like invoke() for C++98, C++11 and later (WIP).
 - [jthread-lite](https://github.com/martinmoene/jthread-lite) &ndash; C++20's jthread for C++11 and later (WIP).
 - [observer-ptr-lite](https://github.com/martinmoene/observer-ptr-lite) &ndash; An observer_ptr for C++98 and later (Extensions for Library Fundamentals, v2, v3).
 - [optional-fun-lite](https://github.com/martinmoene/optional-fun-lite) &ndash; Functional algorithms for optional (lite) for C++98, C++11 and later.  
