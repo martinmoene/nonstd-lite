@@ -21,11 +21,11 @@ Issues of collective interest to these projects are collected in [nonstd-lite-pr
   See also [optional-lite](https://github.com/martinmoene/optional-lite).
 - [optional-bare](https://github.com/martinmoene/optional-lite) &ndash; A simple version of a C++17-like optional for default-constructible, copyable types, for C++98 and later.
 - [optional-lite](https://github.com/martinmoene/optional-lite) &ndash; A C++17-like optional, a nullable object for C++98, C++11 and later.
-- [ring-span-lite](https://github.com/martinmoene/ring-span-lite) &ndash; A ring_span type for C++98, C++11 and later (P0059).
+- [ring-span-lite](https://github.com/martinmoene/ring-span-lite) &ndash; A ring_span type for C++98, C++11 and later (p0059).
 - [scope-lite](https://github.com/martinmoene/scope-lite) &ndash; C++ library extensions scope_exit, scope_fail, scope_success, unique_resource (C++ standard libraries extensions, version 3: Generic scope and RAII Wrapper.).
 - [span-lite](https://github.com/martinmoene/span-lite) &ndash; A C++20-like span for C++98, C++11 and later.
-- [status-value-lite](https://github.com/martinmoene/status-value-lite) &ndash; A class for status and optional value for C++11 and later, with C++98 variant also provided (P0262).
-- [string-lite](https://github.com/martinmoene/string-lite) &ndash; String algorithms for C+11 and later.
+- [status-value-lite](https://github.com/martinmoene/status-value-lite) &ndash; A class for status and optional value for C++11 and later, with C++98 variant also provided (p0262).
+- [string-lite](https://github.com/martinmoene/string-lite) &ndash; String algorithms for C++11 and later.
 - [string-non-lite](https://github.com/martinmoene/string-non-lite) &ndash; String facilities for C++98 and later.  
   Prefer to use [string-lite](https://github.com/martinmoene/string-lite).
 - [string-view-lite](https://github.com/martinmoene/string-view-lite) &ndash; A C++17-like string_view for C++98, C++11 and later .
