@@ -1,4 +1,4 @@
-# nonstd-lite
+# nonstd-lite - Parent of *-lite repositories, a migration path to post-C++98 library features via polyfills.
 
 Please note that the various _lite_ projects are standalone projects, each a single-file header-only C++ library, without any dependencies other than the standard library.
 
