@@ -19,7 +19,7 @@ Issues of collective interest to these projects are collected in [nonstd-lite-pr
 - [observer-ptr-lite](https://github.com/martinmoene/observer-ptr-lite) &ndash; An observer_ptr for C++98 and later (Extensions for Library Fundamentals, v2, v3).
 - [optional-fun-lite](https://github.com/martinmoene/optional-fun-lite) &ndash; Functional algorithms for optional (lite) for C++98, C++11 and later.  
   See also [optional-lite](https://github.com/martinmoene/optional-lite).
-- [optional-bare](https://github.com/martinmoene/optional-lite) &ndash; A simple version of a C++17-like optional for default-constructible, copyable types, for C++98 and later.
+- [optional-bare](https://github.com/martinmoene/optional-bare) &ndash; A simple version of a C++17-like optional for default-constructible, copyable types, for C++98 and later.
 - [optional-lite](https://github.com/martinmoene/optional-lite) &ndash; A C++17-like optional, a nullable object for C++98, C++11 and later.
 - [ring-span-lite](https://github.com/martinmoene/ring-span-lite) &ndash; A ring_span type for C++98, C++11 and later (p0059).
 - [scope-lite](https://github.com/martinmoene/scope-lite) &ndash; C++ library extensions scope_exit, scope_fail, scope_success, unique_resource (C++ standard libraries extensions, version 3: Generic scope and RAII Wrapper.).
